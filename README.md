@@ -25,3 +25,4 @@ La lógica del programa es la siguiente:
 Los archivos que componen la solución son los siguientes:
  - "Procesamiento de Transacciones Bancarias.py": Contiene el código que cumple con la tarea asignada apra este proyecto.
  - "Transacciones Bancarias.csv": Contiene los datos que se usarán para realizar el análisis.
+ - "main_functions.py": Contiene las funciones que calculan el balance final, mayor transacción, conteo de transacciones tipo débito y crédito. 
